@@ -125,10 +125,10 @@ export default function Home() {
           <p className="text-xl text-blue-100 mb-8">Join thousands of professionals who found their dream jobs with us</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/signup?role=jobseeker" className="bg-white text-blue-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-100">
-              I'm Looking for Jobs
+              I&apos;m Looking for Jobs
             </Link>
             <Link href="/signup?role=recruiter" className="border border-white text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-blue-700">
-              I'm Hiring
+              I&apos;m Hiring
             </Link>
           </div>
         </div>

@@ -247,7 +247,7 @@ Our company culture is built on collaboration, innovation, and continuous learni
                 <div className="text-center">
                   <CheckCircle className="h-12 w-12 text-green-500 mx-auto mb-4" />
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Application Submitted!</h3>
-                  <p className="text-gray-600 mb-4">We'll review your application and get back to you soon.</p>
+                  <p className="text-gray-600 mb-4">We&apos;ll review your application and get back to you soon.</p>
                   <button
                     onClick={() => setIsApplied(false)}
                     className="w-full bg-gray-600 text-white py-2 rounded-lg hover:bg-gray-700"
@@ -264,7 +264,7 @@ Our company culture is built on collaboration, innovation, and continuous learni
                     Apply for this job
                   </button>
                   <p className="text-sm text-gray-600 text-center">
-                    You'll be redirected to complete your application
+                    You&apos;ll be redirected to complete your application
                   </p>
                 </div>
               )}

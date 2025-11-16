@@ -268,7 +268,7 @@ export default function FAQ() {
             <div className="mt-8 bg-blue-50 rounded-lg p-6">
               <h3 className="text-lg font-semibold text-gray-900 mb-2">Still have questions?</h3>
               <p className="text-gray-700 mb-4">
-                Can't find the answer you're looking for? Our support team is here to help!
+                Can&apos;t find the answer you&apos;re looking for? Our support team is here to help!
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link

@@ -98,7 +98,7 @@ export default function JobSeekerDashboard() {
         {/* Welcome Section */}
         <div className="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-lg p-6 text-white mb-8">
           <h1 className="text-2xl font-bold mb-2">Welcome back, John!</h1>
-          <p className="text-blue-100">Here's what's happening with your job search</p>
+          <p className="text-blue-100">Here&apos;s what&apos;s happening with your job search</p>
         </div>
 
         {/* Stats Cards */}

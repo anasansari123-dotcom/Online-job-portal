@@ -140,14 +140,14 @@ export default function PrivacyPolicy() {
               Your information may be transferred to and processed in countries other than your own. We ensure that such transfers comply with applicable data protection laws and implement appropriate safeguards to protect your information.
             </p>
 
-            <h2 className="text-2xl font-semibold text-gray-900 mb-4">9. Children's Privacy</h2>
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4">9. Children&apos;s Privacy</h2>
             <p className="text-gray-700 mb-6">
               Our service is not intended for children under 16 years of age. We do not knowingly collect personal information from children under 16. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">10. Changes to This Privacy Policy</h2>
             <p className="text-gray-700 mb-6">
-              We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page and updating the "Last updated" date. We encourage you to review this privacy policy periodically.
+              We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page and updating the &quot;Last updated&quot; date. We encourage you to review this privacy policy periodically.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">11. Contact Us</h2>

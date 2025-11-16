@@ -24,7 +24,7 @@ export default function TermsAndConditions() {
           <div className="prose max-w-none">
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">1. Acceptance of Terms</h2>
             <p className="text-gray-700 mb-6">
-              By accessing and using JobPortal ("the Service"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.
+              By accessing and using JobPortal (&quot;the Service&quot;), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">2. Use License</h2>
@@ -34,7 +34,7 @@ export default function TermsAndConditions() {
             <ul className="list-disc list-inside text-gray-700 mb-6 space-y-2">
               <li>modify or copy the materials</li>
               <li>use the materials for any commercial purpose or for any public display (commercial or non-commercial)</li>
-              <li>attempt to decompile or reverse engineer any software contained on JobPortal's website</li>
+              <li>attempt to decompile or reverse engineer any software contained on JobPortal&apos;s website</li>
               <li>remove any copyright or other proprietary notations from the materials</li>
             </ul>
 
@@ -72,7 +72,7 @@ export default function TermsAndConditions() {
 
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">6. Content</h2>
             <p className="text-gray-700 mb-4">
-              Our service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are responsible for the Content that you post to the Service, including its legality, reliability, and appropriateness.
+              Our service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (&quot;Content&quot;). You are responsible for the Content that you post to the Service, including its legality, reliability, and appropriateness.
             </p>
             <p className="text-gray-700 mb-6">
               By posting Content to the Service, you grant us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through the Service.
@@ -90,7 +90,7 @@ export default function TermsAndConditions() {
 
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">9. Disclaimer</h2>
             <p className="text-gray-700 mb-6">
-              The information on this website is provided on an "as is" basis. To the fullest extent permitted by law, this Company excludes all representations, warranties, conditions and terms relating to our website and the use of this website.
+              The information on this website is provided on an &quot;as is&quot; basis. To the fullest extent permitted by law, this Company excludes all representations, warranties, conditions and terms relating to our website and the use of this website.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">10. Limitation of Liability</h2>

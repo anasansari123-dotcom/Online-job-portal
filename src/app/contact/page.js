@@ -67,7 +67,7 @@ export default function Contact() {
             </div>
             <h1 className="text-3xl font-bold text-gray-900 mb-4">Message Sent Successfully!</h1>
             <p className="text-gray-600 mb-8">
-              Thank you for contacting us. We'll get back to you within 24 hours.
+              Thank you for contacting us. We&apos;ll get back to you within 24 hours.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
